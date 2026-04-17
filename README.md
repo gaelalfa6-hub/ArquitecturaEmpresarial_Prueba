@@ -1,2 +1,3 @@
 # ArquitecturaEmpresarial_Prueba
-documentación_empresarial_v1
+
+documentación_empresarial_v2
